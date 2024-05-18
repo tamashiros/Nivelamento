@@ -1,4 +1,4 @@
-# Nivelament
+# Nivelamento
 odemos dividir a atividade em três partes principais: 
 Parte 1 - Design e montagem do esqueleto utilizando o FIGMA; 
 Parte 2 - desenvolvimento da estrutura do site utilizando HTML; 
